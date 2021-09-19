@@ -24,7 +24,7 @@ jobs:
     - name: Install dependencies
       run: yarn install # Install the dependencies
       
-    - name: Create build
+     - name: Create build
       run: yarn build # Build the app
 
     - name: Deploy 🚀
