@@ -4,7 +4,18 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>This my first app</h1>
+      <h1>
+        Counter program using context
+      </h1>
+      <div style={{flex:1,flexDirection:'row',justifyContent:'center',alignItems:'center'}}>
+      <button style={{marginRight:20}}>
+         sub 
+        </button> 
+        <button>
+         Plus 
+        </button> 
+       
+      </div>
     </div>
   );
 }
