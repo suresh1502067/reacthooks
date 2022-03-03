@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>This my first app</h1>
       <h3>Hi everyone I am trying to learn git commands</h3>
+      <p>Good Day!</p>
     </div>
   );
 }
