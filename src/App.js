@@ -95,6 +95,7 @@ fs.map(data=>data())
         </button> 
         <button>
          Plus 
+         <h1>Hi every</h1>
         </button> 
        <div>
          merge the content to main
