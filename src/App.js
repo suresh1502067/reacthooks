@@ -4,7 +4,6 @@ import logo from './logo.svg';
 import './App.css';
 import moment from 'moment'
 
-
 const tableCloumn=['id','firstname','lastname',]
 
 const dataSource=[
@@ -46,8 +45,7 @@ const dataSource=[
     address:'63B/1',
     school:'r.c',
     city:'kvp'
-  },
-
+  }
 ]
 
 function App() {
@@ -67,8 +65,6 @@ endTime.diff(startTime, 'minutes');
   //     })
   //   })
   //   console.log("result",result)
-
-
 let fs =[]
 for(var i=0;i<=10;i++){
   fs.push(function(){
@@ -76,10 +72,11 @@ for(var i=0;i<=10;i++){
   })
 }
 fs.map(data=>data())
+}, [])
 
-    
-  }, [])
-
+const showTime=()=>{
+  return <button>Good bye Ji</button>
+}
 
   return (
     <div className="App">
@@ -101,6 +98,7 @@ fs.map(data=>data())
        </div>
       </div>
       <h4>Table</h4>
+      {showTime()}
     </div>
   );
 }
