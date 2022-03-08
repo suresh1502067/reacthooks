@@ -87,6 +87,7 @@ fs.map(data=>data())
       <h3>Hi everyone I am trying to learn git commands</h3>
       <h4>sdifsdjfk</h4>
       <p>Good Day!</p>
+      <h2>sdfsdf</h2>
       <h1>
         Counter program using context
       </h1>
@@ -96,7 +97,7 @@ fs.map(data=>data())
         </button> 
         <button>
          Plus 
-         <h1>Hi every</h1>
+         <h1>Hi everyOne Hi</h1>
         </button> 
        <div>
          merge the content to main
