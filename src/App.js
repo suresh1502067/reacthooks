@@ -15,6 +15,7 @@ function App() {
       <h1>
         Counter program using context
       </h1>
+      <pre>I love coding</pre>
       <div style={{flex:1,flexDirection:'row',justifyContent:'center',alignItems:'center'}}>
       <button style={{marginRight:20}}>
          sub dddd
