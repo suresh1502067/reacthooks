@@ -17,7 +17,10 @@ function App() {
       </h1>
       <div style={{flex:1,flexDirection:'row',justifyContent:'center',alignItems:'center'}}>
       <button style={{marginRight:20}}>
-         sub 
+         sub dddd
+         sub 15EC067 -main changesss
+         sub 15EC067 -main changesss ---2 
+         hi everyone
         </button> 
         <button>
          Plus 
