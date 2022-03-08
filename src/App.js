@@ -81,7 +81,7 @@ fs.map(data=>data())
       </h1>
       <div style={{flex:1,flexDirection:'row',justifyContent:'center',alignItems:'center'}}>
       <button style={{marginRight:20}}>
-         sub 
+         sub dddd
         </button> 
         <button>
          Plus 
