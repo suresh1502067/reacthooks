@@ -14,7 +14,6 @@ function App() {
         <button>
          Plus 
         </button> 
-       
       </div>
     </div>
   );
