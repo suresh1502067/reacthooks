@@ -91,10 +91,7 @@ fs.map(data=>data())
       </h1>
       <div style={{flex:1,flexDirection:'row',justifyContent:'center',alignItems:'center'}}>
       <button style={{marginRight:20}}>
-         sub dddd
-         sub 15EC067 -main changesss
-         sub 15EC067 -main changesss ---2 
-         hi everyone
+         sub 123444
         </button> 
         <button>
          Plus 
