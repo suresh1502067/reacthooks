@@ -92,6 +92,7 @@ fs.map(data=>data())
       <div style={{flex:1,flexDirection:'row',justifyContent:'center',alignItems:'center'}}>
       <button style={{marginRight:20}}>
          sub dddd
+         sub 15EC067 -main changesss
         </button> 
         <button>
          Plus 
