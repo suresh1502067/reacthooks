@@ -14,7 +14,8 @@ function App() {
         <button>
          Plus 
         </button> 
-       
+       <h1>branches</h1>
+       <li>main_(parent of all branches)</li>
       </div>
     </div>
   );
