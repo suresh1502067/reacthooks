@@ -14,7 +14,8 @@ function App() {
         <button>
          Plus 
         </button> 
-       
+       <h1>Branches</h1>
+        <li>Main_dummy_2</li>
       </div>
     </div>
   );
