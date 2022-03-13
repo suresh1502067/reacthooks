@@ -16,6 +16,8 @@ function App() {
         </button> 
        <h1>branches</h1>
        <li>main_(parent of all branches)</li>
+       <h1>Branches</h1>
+        <li>Main_dummy_2</li>
       </div>
     </div>
   );
