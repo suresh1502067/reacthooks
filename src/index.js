@@ -2,7 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-
+import './my-sass.scss';
+import Hi from './hi'
+import Hello from './hello'
 ReactDOM.render(
   <React.StrictMode>
     <App />

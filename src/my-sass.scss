@@ -1,0 +1,32 @@
+$myColor: red;
+
+$backgroundColor: blue;
+
+h1 {
+  color: $myColor;
+}
+
+#app {
+    $myColor:blue;
+    color: $myColor;
+}
+.subclass{
+    background-color: $backgroundColor;
+    .inner {
+        color: brown;
+    }
+}
+
+@mixin important-text {
+    color: rgb(183, 255, 0);
+    font-size: 25px;
+    font-weight: bold;
+    border: 1px solid rgb(4, 4, 17);
+  }
+  
+  .danger {
+    @include important-text;
+    background-color: rgb(51, 53, 51);
+  }  
+  
+  
