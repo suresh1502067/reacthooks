@@ -15,9 +15,6 @@ pipeline {
                                
                                 sh 'npm run build'
 
-                                echo 'was executed.'
-
-                                kill '$(cat .pidfile)'
                             }
             }
 
