@@ -13,11 +13,11 @@ pipeline {
         stage('Deliver') {
                             steps {
                                
-                                npm run build
-                                
+                                sh 'npm run build'
+
                                 echo 'was executed.'
 
-                                kill $(cat .pidfile)
+                                kill '$(cat .pidfile)'
                             }
             }
 
