@@ -6,3 +6,6 @@
 # reacthook --- counter-3.
 
 # react hook --- counter 4 final
+
+
+merge the counter branch
